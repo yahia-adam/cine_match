@@ -4,7 +4,7 @@
 
 - Demo: https://mycinematch-8be0ed558c56.herokuapp.com/
 
-![alt text](image.png)
+![alt text](assets/demo.gif)
 
 ## Features
 - Movie Recommendation: Recommends movies based on similarity to a selected movie.
